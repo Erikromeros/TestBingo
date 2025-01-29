@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": "Lotería", "AmountBallots": 24, "BallotsToWin": 4, "WinNumbers_1": 30, "WinNumbers_2": 20, "WinNumbers_3": 12, "WinNumbers_4": 4  },
+    { "id": 1, "AmountBallots": 24, "BallotsToWin": 4, "WinNumbers_1": 30, "WinNumbers_2": 20, "WinNumbers_3": 12, "WinNumbers_4": 4  },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
