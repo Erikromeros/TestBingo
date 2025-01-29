@@ -10,16 +10,15 @@
   ],
   "profile": {
     "name": "typicode"
+    "game": "Lotería",
+    "published_at": "2025-01-24T08:40:51.620Z",
+    "AmountBallots": 24,
+    "BallotsToWin": 4
+    "WinNumbers_1": 24,
+    "WinNumbers_2": 2,
+    "WinNumbers_3": 4,
+    "WinNumbers_4": 1
   }
-  {
-  "game": "Lotería",
-  "published_at": "2025-01-24T08:40:51.620Z",
-  "AmountBallots": 24,
-  "BallotsToWin": 4
-  "WinNumbers_1": 24,
-  "WinNumbers_2": 24,
-  "WinNumbers_3": 24,
-  "WinNumbers_4": 24
-}
+  
 }
 
