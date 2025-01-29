@@ -1,4 +1,17 @@
 {
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+  {
   "game": "Lotería",
   "published_at": "2025-01-24T08:40:51.620Z",
   "AmountBallots": 24,
@@ -8,3 +21,5 @@
   "WinNumbers_3": 24,
   "WinNumbers_4": 24
 }
+}
+
